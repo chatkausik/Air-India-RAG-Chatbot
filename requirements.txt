@@ -1,0 +1,9 @@
+awscli
+boto3
+botocore
+langchain_community
+streamlit
+langchain
+tiktoken
+langchain_chroma
+pypdf
